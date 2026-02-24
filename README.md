@@ -5,8 +5,7 @@ Welcome to my personal developer portfolio website.
 This portfolio mainly showcases my skills, projects, and frontend development journey built using pure **HTML, CSS, and JavaScript**.
 
 🔗 **Live Website:**  
-https://yourusername.github.io/portfolio/
-
+[https://yourusername.github.io/portfolio/)
 ---
 <img width="1359" height="685" alt="Screenshot 2026-02-24 103733" src="https://github.com/user-attachments/assets/33762ed6-bfcd-44f2-aaee-f0e7d8be8326" />
 
